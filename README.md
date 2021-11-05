@@ -13,3 +13,7 @@ In this league, teams accumulate points by winning (3 points) or drawing (1 poin
 Tests are in test.py and can be run by executing test.py. The tests assume solution.py is in the same directory or in the module path.
 
 Tests can be run by executing command:python -m test or python3 -m test and also using command: python test.py or command: python3.test.py.
+
+tigerlab is named of my Virtual Environments of python3 and can create a virtual environment by executing command: python3 -m venv tigerlab.
+
+Active by using command: tigerlab\Scripts\activate on Window. And On Unix or MacOS, run: source tigerlab/bin/activate.To deactivate this virtual environments using command: source tigerlab/bin/deactivate on command-line interface (cmd) or on power shell by running command: deactivate. 
